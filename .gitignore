@@ -1,4 +1,8 @@
-bin/
-obj/
-out/
-appsettings.*
+#dotnetAPI
+dotnetAPI/bin/
+dotnetAPI/obj/
+dotnetAPI/out/
+dotnetAPI/appsettings.*
+
+#goAPI
+goAPI/bin/
