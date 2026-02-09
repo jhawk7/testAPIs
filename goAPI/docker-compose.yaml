@@ -1,0 +1,6 @@
+services:
+  go-test-api:
+    image: jhawk7/go-test-api:latest
+    build: .
+    ports:
+      - "8383:8383"
